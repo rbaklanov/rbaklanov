@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rbaklanov/rbaklanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
   <a href="https://twitter.com/rbaklanov">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge">
@@ -11,6 +9,8 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
   </a>
 </p>
+
+<a href="https://github.com/rbakalnov"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rbaklanov&show_icons=true" align="right" height="150" /></a>
 
 Here are some ideas to get you started:
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/rbakalnov"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rbaklanov&show_icons=true" align="right" height="150" /></a>
+
