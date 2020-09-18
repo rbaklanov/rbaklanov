@@ -2,10 +2,10 @@
 
 <p>
   <a href="https://twitter.com/rbaklanov">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rbaklanov?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/sponsors/nunomaduro">
+  <a href="https://github.com/sponsors/rbaklanov">
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
   </a>
 </p>
