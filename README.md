@@ -2,6 +2,15 @@
 
 <!--
 **rbaklanov/rbaklanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://twitter.com/rbaklanov">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/sponsors/nunomaduro">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
