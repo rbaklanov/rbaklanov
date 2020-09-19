@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p>
   <a href="https://twitter.com/rbaklanov">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rbaklanov?style=for-the-badge">
