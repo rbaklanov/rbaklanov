@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<a href="https://github.com/rbakalnov"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rbaklanov&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/rbaklanov"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rbaklanov&show_icons=true" align="right" height="150" /></a>
 
 Here are some ideas to get you started:
 
